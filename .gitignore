@@ -1,0 +1,6 @@
+.vscode
+app.py
+main.py
+test.py
+config.py
+__pycache__
