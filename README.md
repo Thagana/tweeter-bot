@@ -1,2 +1,2 @@
-# tweeter-bot
+# twitter-bot
 python tweeter bot quotes using tweepy and wikiqoutes
