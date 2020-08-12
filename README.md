@@ -20,6 +20,8 @@ python twitter bot quotes using tweepy and wikiqoutes
     $ pip install -r requirements.txt
 ```
 
+Replace the content in the `config.example.py` with your correct credentials
+
 ```bash
     $ python tweet-quotes.py
 ```
